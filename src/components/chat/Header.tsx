@@ -47,7 +47,7 @@ export const Header = ({
           <div className="h-8 w-8 bg-gradient-to-br from-blue-500 to-purple-600 rounded-lg flex items-center justify-center">
             <Bot className="h-5 w-5 text-white" />
           </div>
-          <h1 className="text-xl font-semibold">ChatBot</h1>
+          <h1 className="text-xl font-semibold">NITIYUG</h1>
         </div>
       </div>
 

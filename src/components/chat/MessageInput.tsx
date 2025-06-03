@@ -54,7 +54,7 @@ export const MessageInput = ({
   };
 
   return (
-    <div className="border-t bg-background p-4">
+    <div className="border-t bg-background lg:bg-background bg-[rgba(76,96,153,1)] p-4">
       <form
         onSubmit={handleSubmit}
         className="flex gap-3 items-end max-w-4xl mx-auto"

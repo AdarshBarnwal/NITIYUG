@@ -30,7 +30,7 @@ const TypingIndicator = () => (
 );
 
 const EmptyState = () => (
-  <div className="flex-1 flex items-center justify-center p-8">
+  <div className="flex-1 flex items-center justify-center p-8 lg:bg-transparent bg-[rgba(65,93,147,0.6)]">
     <div className="text-center space-y-4 max-w-md">
       <div className="h-16 w-16 bg-muted rounded-full flex items-center justify-center mx-auto">
         <Bot className="h-8 w-8 text-muted-foreground" />
